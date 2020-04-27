@@ -23,7 +23,7 @@ bio: My research interests include robotics, multi-agent system and appilcations
 interests:
 - Robotics
 - Multi-agent Control 
-- Reforcement Learning
+- Reinforcement Learning
 
 education:
   courses:
@@ -64,5 +64,7 @@ user_groups:
 - Visitors
 ---
 Sicong Jiang is currently a first-year Electrical and Computer Engineering master student at Georgia Institute of Technology. He is now a member of Intelligent Vision and Automation Laboratory at GaTech, advised by Prof. Patricio A. Vela. 
+
 Before he came to Georgia Tech, he received his B.Eng from Northeastern University, Shenyang. During his undergraduate period, he finished several projects in the State Key Laboratory of Synthetical Automation for Process Industries (SAPI). 
+
 At present, Sicong mainly concentrates on the exploration and navigation algorithms for multi-agent system. He is actively seeking research opptunities and cooperation in related areas. 

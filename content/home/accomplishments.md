@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Publications"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,30 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "Journal of Electronic Imaging"
+  organization_url = ""
+  title = "Long-term Tracking Algorithm Using Deep Features and a Single Shot Multi-box Detector"
+  url = "https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-27/issue-5/053019/Long-term-tracking-algorithm-using-deep-features-and-a-single/10.1117/1.JEI.27.5.053019.short?SSO=1"
+  date_start = "2018-09"
   date_end = ""
-  description = ""
+  description = "To solve the drift problem in visual tracking, we proposed an algorithm that incorporates deep features. A sparse representation method is used to filter deep features and improve their complexity. Then, a Siamese network is used to judge the similarities between the target and template and determine a confidence level. "
 
 [[item]]
-  organization = "edX"
+  organization = "Springer-CCIS"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Long-Term Tracking Algorithm with the Combination of Multi-feature Fusion and YOLO"
+  url = "https://link.springer.com/book/10.1007/978-981-13-1702-6"
+  date_start = "2018-08"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "IEEE International Conference on Information and Automation(ICIA2018)"
+  organization_url = ""
+  title = "Long-term Tracking Based on Spatio-Temporal Context Model"
+  url = "https://ieeexplore.ieee.org/document/8812340"
+  date_start = "2018-06"
+  date_end = ""
   description = ""
 
 +++
