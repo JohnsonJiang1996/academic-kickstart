@@ -63,7 +63,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Sicong Jiang is currently a first-year Electrical and Computer Engineering master student at Georgia Institute of Technology. He is now a member of Intelligent Vision and Automation Laboratory at GaTech, advised by Prof. Patricio A. Vela. 
+Sicong Jiang is currently a first-year Electrical and Computer Engineering master student at [Georgia Institute of Technology](https://www.google.com). He is now a member of Intelligent Vision and Automation Laboratory at GaTech, advised by Prof. Patricio A. Vela. 
 
 Before he came to Georgia Tech, he received his B.Eng from Northeastern University, Shenyang. During his undergraduate period, he finished several projects in the State Key Laboratory of Synthetical Automation for Process Industries (SAPI). 
 
