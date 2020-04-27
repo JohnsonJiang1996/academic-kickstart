@@ -28,11 +28,11 @@ interests:
 education:
   courses:
   - course: MS in Electrical and Computer Engineering
-    institution: georgia Institute of Technology
-    year: 2019.8 -- Present
+    institution: Georgia Institute of Technology
+    year: 2019  -  Present
   - course: BSc in Engineering
     institution: Northeastern University
-    year: 2015.9 - 2019.6
+    year: 2015  -  2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,7 +63,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sicong Jiang is currently a first-year Electrical and Computer Engineering master student at Georgia Institute of Technology. He is now a member of Intelligent Vision and Automation Laboratory at GaTech-url: "https://www.gatech.edu/", advised by Prof. Patricio A. Vela. 
