@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "johnsonjiang1225@gatech.edu"
-phone = "404 277 43 65"
+phone = "404 277 4365"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -93,7 +93,7 @@ address = {street = "85 5th St NW", city = "Atlanta", region = "GA", postcode = 
 coordinates = {latitude = "33.777047", longitude = "-84.390088"}
 
 # Directions for visitors to locate you.
-directions = "Tech Square Research Building 4th Floor"
+directions = "Tech Square Research Building 4F"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
