@@ -18,12 +18,12 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Georgia Institute of Technology"
-  company = "M.S. in Electrical and Computer Engineering"
+  title = "M.S. in Electrical and Computer Engineering"
+  company = "Georgia Institute of Technology"
   company_url = "https://www.gatech.edu/"
   location = "Atlanta, GA"
   date_start = "2019-08-19"
-  date_end = ""
+  date_end = "2021-05-01"
   description = """
   Responsibilities include:
   Work as a member of the Intelligent Vision and Automation Laboratory (IVALab).
@@ -34,9 +34,9 @@ Mainly focusing on:
   """
 
 [[experience]]
-  title = "Northeastern University"
-  company = "B.S. in Automation"
-  company_url = "https://en.wikipedia.org/wiki/Automation"
+  title = "B.S. in Automation"
+  company = "Northeastern University"
+  company_url = "http://english.neu.edu.cn/"
   location = "Shenyang, China"
   date_start = "2015-09-01"
   date_end = "2019-06-01"
@@ -44,7 +44,7 @@ Mainly focusing on:
   * Outstanding Graduates of Northeastearn University(Top 3%).
   * The Most Influential Graduates of Information College in Northeastern University(Top 3%).
   * National First Prize of China Undergraduate Mathematical Contest in Modeling(Top 1%).
-  * First-class Scholarship in Northeastern University(Top 3%)
+  * First-class Scholarship in Northeastern University(Top 3%).
 """
 
 +++
