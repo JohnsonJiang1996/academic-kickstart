@@ -107,6 +107,7 @@ appointment_url = ""
 contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/vH3gIhzyghjz"},
   {icon = "envelope", icon_pack = "far", name = "Mail Me", link = "mailto:johnsonjiang1225@gatech.edu"},
+  {icon = "linkedin", icon_pack = "fab", name = "Get Connected", link = "https://www.linkedin.com/in/sicong-j-a85a71175/"},
   ]
 
 ############################
