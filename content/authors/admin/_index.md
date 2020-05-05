@@ -68,4 +68,4 @@ Sicong Jiang is currently a first-year [Electrical and Computer Engineering](htt
 
 Before he came to Georgia Tech, he received his B.Eng from [Northeastern University](http://english.neu.edu.cn/), Shenyang. He was also an summer exchange student in [Sidney Sussex College](https://www.sid.cam.ac.uk/) at [University of Cambridge.](https://www.cam.ac.uk/) During his undergraduate period, he finished several projects about visual tracking and robotics motion planning in the [State Key Laboratory of Automation(SAPI)](http://www.sapi.neu.edu.cn/sapienglish/) and [NEU Robo&CV Laboratory.](http://www.rse.neu.edu.cn/rseenglish/)
 
-At present, Sicong mainly concentrates on the [exploration and navigation algorithms for multi-agent system](https://github.com/JohnsonJiang1996/Special-Problem/tree/master/DDPG). He is actively seeking research opptunities and cooperation in related areas. 
+At present, Sicong mainly concentrates on the [exploration and navigation algorithms for multi-agent system](https://github.com/JohnsonJiang1996/Special-Problem/tree/master/DDPG). He is actively seeking research opportunities and cooperation in related areas. 
