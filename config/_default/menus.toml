@@ -29,3 +29,8 @@
     name = "CV"
     url = "files/cv.pdf"
     weight = 70
+
+ [[main]]
+    name = "Toefl/GRE"
+    url = "files/Tests.pdf"
+    weight = 80
