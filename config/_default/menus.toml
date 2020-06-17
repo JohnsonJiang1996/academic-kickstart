@@ -31,6 +31,6 @@
     weight = 70
 
  [[main]]
-    name = "Toefl&GRE"
+    name = "TOEFL&GRE"
     url = "files/Test.pdf"
     weight = 80
