@@ -14,23 +14,25 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Tech
-  url: "https://www.gatech.edu/"
+- name: McGill University
+  url: "https://www.mcgill.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, multi-agent system and appilcations of reinforcement learning.
+bio: My research interests include multi-agent system and appilcations of reinforcement learning.
 
 interests:
-- Robotics
-- Multi-agent Control 
-- Reinforcement Learning
+- Multi-agent System 
+- Deep Reinforcement Learning
 - Computer Vision
 
 education:
   courses:
+  - course: Ph.D in Transportation Engineering
+    institution: McGill University
+    year: 2021  -  Present
   - course: M.Sc in Electrical and Computer Engineering
     institution: Georgia Institute of Technology
-    year: 2019  -  Present
+    year: 2019  -  2021
   - course: B.Eng in Engineering
     institution: Northeastern University
     year: 2015  -  2019
