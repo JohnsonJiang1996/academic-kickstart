@@ -33,7 +33,7 @@ education:
   - course: M.Sc in Electrical and Computer Engineering
     institution: Georgia Institute of Technology
     year: 2019  -  2021
-  - course: B.Eng in Engineering
+  - course: B.Eng in Electrical Engineering
     institution: Northeastern University
     year: 2015  -  2019
 
