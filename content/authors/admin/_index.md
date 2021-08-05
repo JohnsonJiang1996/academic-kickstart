@@ -64,8 +64,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi! I'm currently a first-year [Electrical and Computer Engineering](https://www.ece.gatech.edu/) master student at [Georgia Institute of Technology](https://www.gatech.edu). I'm now a member of [Intelligent Vision and Automation Laboratory(IVALab)](https://ivalab.gatech.edu/) at GaTech, advised by [Prof. Patricio A. Vela.](https://www.ece.gatech.edu/faculty-staff-directory/patricio-antonio-vela)
+Hi! I'm an incoming PhD student at [McGill University](https://www.mcgill.ca/). I'm now a member of [Smart Transport Group](https://smart-transport.github.io/) at McGill, advised by [Prof. Lijun Sun](https://lijunsun.github.io/). I am committed to applying advanced machine learning algorithms to urban computing and transportation areas.
 
-Before I came to Georgia Tech, I received my B.Eng from [Northeastern University](http://english.neu.edu.cn/), Shenyang. I was also an exchange student in [Sidney Sussex College](https://www.sid.cam.ac.uk/). During my undergraduate period, I finished several projects related to visual tracking, robotics motion planning  as well as data mining and prediction in the [State Key Laboratory of Automation(SAPI)](http://www.sapi.neu.edu.cn/sapienglish/) and [NEU Robo&CV Laboratory.](http://www.rse.neu.edu.cn/rseenglish/)
+Before I came to McGill, I got my master degree in [Electrical&Computer Engineering](https://www.ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu). And I received my B.Eng from [Northeastern University](http://english.neu.edu.cn/), Shenyang. I was also an exchange student in [Sidney Sussex College](https://www.sid.cam.ac.uk/). During my undergraduate period, I finished several projects related to reinforcement learning, robotics motion planning  as well as data mining and prediction in the [State Key Laboratory of Automation(SAPI)](http://www.sapi.neu.edu.cn/sapienglish/) and [NEU Robo&CV Laboratory.](http://www.rse.neu.edu.cn/rseenglish/)
 
-At present, I mainly concentrate on the [exploration and navigation algorithms for multi-agent system](https://github.com/JohnsonJiang1996/Special-Problem/tree/master/DDPG). I'm actively seeking for research opportunities and cooperations in related areas. Feel free to contact me!
+I'm always open to research opportunities and cooperations in related areas. Feel free to contact me!
