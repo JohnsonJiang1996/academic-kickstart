@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D in Transportation Engineering
+  - course: Ph.D in Electrical and Computer Engineering
     institution: McGill University
     year: 2021  -  Present
   - course: M.Sc in Electrical and Computer Engineering
