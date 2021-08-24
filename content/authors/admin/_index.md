@@ -22,9 +22,9 @@ bio: My research interests include multi-agent system and appilcations of reinfo
 
 interests:
 - Deep Reinforcement Learning
-- Computer Vision
 - Multi-Agent System 
 - Urban Computing
+- Computer Vision
 
 education:
   courses:
