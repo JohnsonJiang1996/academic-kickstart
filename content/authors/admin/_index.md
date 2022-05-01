@@ -67,7 +67,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi! I'm a first year PhD student at [McGill University](https://www.mcgill.ca/) advised by [Prof. Lijun Sun](https://lijunsun.github.io/). My current research interests lie in developing novel and reliable machine learning algorithms (especially reinforcement learning) for autonomous vehicles.
+Hi! I'm a first year PhD student at [McGill University](https://www.mcgill.ca/) advised by [Prof. Lijun Sun](https://lijunsun.github.io/). My current research interests lie in developing novel and reliable machine learning algorithms for autonomous vehicles.
 
 Before I came to McGill, I got my master degree in [Electrical&Computer Engineering](https://www.ece.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu). And I received my B.Eng from [Northeastern University](http://english.neu.edu.cn/), Shenyang. I was also an exchange student in [Sidney Sussex College](https://www.sid.cam.ac.uk/). During my undergraduate period, I finished several projects related to reinforcement learning, robotics motion planning  as well as data mining and prediction in the [State Key Laboratory of Automation(SAPI)](http://www.sapi.neu.edu.cn/sapienglish/) and [NEU Robo&CV Laboratory.](http://www.rse.neu.edu.cn/rseenglish/)
 
