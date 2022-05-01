@@ -21,10 +21,9 @@ organizations:
 bio: My research interests include multi-agent system and appilcations of reinforcement learning.
 
 interests:
-- Deep Reinforcement Learning
+- Reinforcement Learning
 - Multi-Agent System 
-- Urban Computing
-- Computer Vision
+- Autonomous Driving
 
 education:
   courses:
